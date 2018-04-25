@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/1.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/2.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/3.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/4.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/5.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/6.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Active.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Buy.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/BuyClicked.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Clicked.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/FInalBoard.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Hover.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Hoverbuy.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/UnactiveBuy.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/pawn1.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/pawn2.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Owner1.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Owner2.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Font.spritefont</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/EndTurn.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/EndTurnClicked.png</File>
+    <File>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/EndTurnHover.png</File>
+  </SourceFiles>
+</SourceFileCollection>

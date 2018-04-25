@@ -1,0 +1,101 @@
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csprojResolveAssemblyReference.cache
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Monopoly.exe
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Monopoly.pdb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.exe
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\obj\x86\Debug\Monopoly.pdb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\1.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\2.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\3.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\4.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\5.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\6.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Active.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Arial.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Buy.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\BuyClicked.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Clicked.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\EndTurn.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\EndTurnClicked.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\EndTurnHover.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\FInalBoard.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Font.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Hover.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Hoverbuy.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Owner1.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\Owner2.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn1.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn2.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn_blue.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn_red.xnb
+C:\Users\Fractal Games\Projects\Monopoly\Monopoly\bin\Windows\Debug\Content\UnactiveBuy.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csprojResolveAssemblyReference.cache
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csproj.CoreCompileInputs.cache
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Arial.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn_blue.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn_red.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\1.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\2.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\3.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\4.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\5.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\6.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Active.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Buy.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\BuyClicked.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Clicked.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\EndTurn.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\EndTurnClicked.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\EndTurnHover.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\FInalBoard.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Font.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Hover.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Hoverbuy.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Owner1.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\Owner2.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn1.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\pawn2.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Content\UnactiveBuy.xnb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Monopoly.exe.config
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Monopoly.exe
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\Monopoly.pdb
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\MonoGame.Framework.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XInput.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D9.dll
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\MonoGame.Framework.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.XInput.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\bin\Windows\Debug\SharpDX.Direct3D9.xml
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\obj\x86\Debug\Monopoly.csproj.CopyComplete
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\obj\x86\Debug\Monopoly.exe
+E:\Program Files\Project\zacademy-from-noob-to-game-developer-2015-1389c2118a90\2. Object-oriented Programming and Quality Code\10. MONOGAME Game 2 - Monopoly\Monopoly\Monopoly\obj\x86\Debug\Monopoly.pdb

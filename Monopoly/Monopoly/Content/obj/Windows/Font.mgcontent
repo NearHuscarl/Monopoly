@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/Font.spritefont</SourceFile>
+  <SourceTime>2016-07-04T16:08:48+06:00</SourceTime>
+  <DestFile>E:/Program Files/Project/zacademy-from-noob-to-game-developer-2015-1389c2118a90/2. Object-oriented Programming and Quality Code/10. MONOGAME Game 2 - Monopoly/Monopoly/Monopoly/Content/bin/Windows/Font.xnb</DestFile>
+  <DestTime>2018-04-24T04:05:37.5557227+07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T22:05:36+07:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T22:05:36+07:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>NoChange</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
